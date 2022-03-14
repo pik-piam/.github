@@ -2,7 +2,8 @@
 
 We develop tools (mainly in R) for use with data and models related to [PIK](https://www.pik-potsdam.de/en)'s research.
 
-💡 Need help with something? Check our [Discussions](https://github.com/pik-piam/discussions#readme) page, you'll find answers to many questions and the right place to ask new ones!
+### 💡 Get help:
+Need help with something? Check our [Discussions](https://github.com/pik-piam/discussions#readme) page, you'll find answers to many questions and the right place to ask new ones!
 
 ### :fireworks: Create beautiful graphs
 
