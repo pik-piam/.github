@@ -3,13 +3,13 @@
 We develop tools (mainly in R) for use with data and models related to [PIK](https://www.pik-potsdam.de/en)'s research.
 
 ### 💡 Get help:
-Need help with something? Check our [Discussions](https://github.com/pik-piam/discussions#readme) page, you'll find answers to many questions and the right place to ask new ones!
+Need help with something? Check our new [Discussions](https://github.com/pik-piam/discussions#readme) page, you'll find answers to many questions and the right place to ask new ones!
 
 ### :fireworks: Create beautiful graphs
 
 See [mip](https://github.com/pik-piam/mip#readme), [luplot](https://github.com/pik-piam/luplot#readme), ...
 
-Looking for inspiration? Check out our gallery (in-work).
+Looking for inspiration? Check out our gallery (under construction).
 
 
 ### :floppy_disk: Use the pik-piam custom data classes
@@ -45,4 +45,8 @@ See [madrat](https://github.com/pik-piam/madrat#readme), [goxygen](https://githu
 ### :wrench: Other tools
 
 Convert GDP data with [GDPuc](https://johanneskoch94.github.io/GDPuc/index.html)
+
+### 🛰️ R-Universe
+
+Here's our R-Univerese page: https://pik-piam.r-universe.dev/ui#builds
 
