@@ -48,5 +48,7 @@ Convert GDP data with [GDPuc](https://johanneskoch94.github.io/GDPuc/index.html)
 
 ### 🛰️ R-Universe
 
-Here's our R-Univerese page: https://pik-piam.r-universe.dev/ui#builds
+Here's [our R-Universe page](https://pik-piam.r-universe.dev/ui#builds)
 
+### ⏬ Install all packages
+To install all PIK-PIAM R packages check [this gist](https://gist.github.com/pfuehrlich-pik/0b91022d5599831ee29fd7fe416332fb)
