@@ -44,7 +44,7 @@ See [madrat](https://github.com/pik-piam/madrat#readme), [goxygen](https://githu
 
 ### :wrench: Other tools
 
-Convert GDP data with [GDPuc](https://johanneskoch94.github.io/GDPuc/index.html)
+Convert GDP data with [GDPuc](https://pik-piam.github.io/GDPuc/index.html)
 
 ### 🛰️ R-Universe
 
