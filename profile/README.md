@@ -31,12 +31,12 @@ For input data specific to REMIND see [mrremind](https://github.com/pik-piam/mrr
 ### :outbox_tray: Create reportings
 
 See [remind2](https://github.com/pik-piam/remind2), [magpie](https://github.com/pik-piam/magpie), [magpie4](https://github.com/pik-piam/magpie4), [mrvalidation](https://github.com/pik-piam/mrvalidation),
-[mrvalidnitrogen](https://github.com/pik-piam/mrvalidnitrogen)
+[mrvalidnitrogen](https://github.com/pik-piam/mrvalidnitrogen).
 
 
 ### :factory: Manage model and data infrastructure
 
-See [madrat](https://github.com/pik-piam/madrat), [goxygen](https://github.com/pik-piam/goxygen), [modelstats](https://github.com/pik-piam/modelstats), [piktests](https://github.com/pik-piam/piktests), [gms](https://github.com/pik-piam/gms), [citation](https://github.com/pik-piam/citation), [lucode2](https://github.com/pik-piam/lucode2)
+See [madrat](https://github.com/pik-piam/madrat), [goxygen](https://github.com/pik-piam/goxygen), [modelstats](https://github.com/pik-piam/modelstats), [piktests](https://github.com/pik-piam/piktests), [gms](https://github.com/pik-piam/gms), [citation](https://github.com/pik-piam/citation), [lucode2](https://github.com/pik-piam/lucode2).
 
 
 ### :building_construction: + :truck: Sector models
@@ -53,7 +53,7 @@ Create beautiful graphs with [mip](https://github.com/pik-piam/mip), [luplot](ht
 
 ### 🛰️ R-Universe
 
-Here's [our R-Universe page](https://pik-piam.r-universe.dev/ui#builds)
+Here's [our R-Universe page](https://pik-piam.r-universe.dev/ui#builds).
 
 ### ⏬ Install all packages
-To install all PIK-PIAM R packages check [this gist](https://gist.github.com/pfuehrlich-pik/0b91022d5599831ee29fd7fe416332fb)
+To install all PIK-PIAM R packages check [this gist](https://gist.github.com/pfuehrlich-pik/0b91022d5599831ee29fd7fe416332fb).
