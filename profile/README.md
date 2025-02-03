@@ -16,14 +16,12 @@ For the dataframe-like 'quitte' class see [quitte](https://github.com/pik-piam/q
 
 For input data for both MAgPIE and REMIND see [mrdrivers](https://pik-piam.github.io/mrdrivers/index.html), 
 [mrcommons](https://github.com/pik-piam/mrcommons), 
-[mrfaocore](https://github.com/pik-piam/mrfaocore).
-
+[mrfaocore](https://github.com/pik-piam/mrfaocore).  
 For input data specific to MAgPIE see [mrmagpie](https://github.com/pik-piam/mrmagpie), 
 [mrland](https://github.com/pik-piam/mrland), 
 [mrlandcore](https://github.com/pik-piam/mrlandcore/),
 [mrsoil](https://github.com/pik-piam/mrsoil), 
-[mrwater](https://github.com/pik-piam/mrwater).
-
+[mrwater](https://github.com/pik-piam/mrwater).  
 For input data specific to REMIND see [mrremind](https://github.com/pik-piam/mrremind),
 [mredgetransport](https://github.com/pik-piam/mredgetransport), 
 [mredgebuildings](https://github.com/pik-piam/mredgebuildings),
@@ -41,17 +39,15 @@ See [remind2](https://github.com/pik-piam/remind2), [magpie](https://github.com/
 See [madrat](https://github.com/pik-piam/madrat), [goxygen](https://github.com/pik-piam/goxygen), [modelstats](https://github.com/pik-piam/modelstats), [piktests](https://github.com/pik-piam/piktests), [gms](https://github.com/pik-piam/gms), [citation](https://github.com/pik-piam/citation), [lucode2](https://github.com/pik-piam/lucode2)
 
 
-### 📈 Sector models
+### :building_construction: + :truck: Sector models
 
-For the **builidings** model see [brick](https://github.com/pik-piam/brick), [reportbrick](https://github.com/pik-piam/reportbrick).
-
+For the **builidings** model see [brick](https://github.com/pik-piam/brick), [reportbrick](https://github.com/pik-piam/reportbrick).  
 For the **transport** model see [edgeTransport](https://github.com/pik-piam/edgeTransport).
 
 
 ### :wrench: Other tools
 
-Convert GDP data with [GDPuc](https://pik-piam.github.io/GDPuc/index.html).
-
+Convert GDP data with [GDPuc](https://pik-piam.github.io/GDPuc/index.html).  
 Create beautiful graphs with [mip](https://github.com/pik-piam/mip), [luplot](https://github.com/pik-piam/luplot).
 
 
