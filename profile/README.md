@@ -1,6 +1,7 @@
 ## Welcome to the pik-piam github page :wave:
 
-We develop tools (mainly in R) for use with data and models related to [PIK](https://www.pik-potsdam.de/en)'s research. Many of these are directly related to the [REMIND](https://github.com/remindmodel/remind) and [MAgPIE](https://github.com/magpiemodel/magpie) models, often dealing with either the pre- or post-processing. 
+We develop tools (mainly in R) for use with data and models related to [PIK](https://www.pik-potsdam.de/en)'s research.
+Many of these are directly related to the [REMIND](https://github.com/remindmodel/remind) and [MAgPIE](https://github.com/magpiemodel/magpie) models, often dealing with either the pre- or post-processing. 
 
 ### 💡 Get help:
 Need help with something? Check our new [Discussions](https://github.com/pik-piam/discussions/discussions) page, you'll find answers to many questions and the right place to ask new ones!
@@ -31,13 +32,21 @@ For input data specific to REMIND see [mrremind](https://github.com/pik-piam/mrr
 
 ### :outbox_tray: Create reportings
 
-See [remind2](https://github.com/pik-piam/remind2), [magpie](https://github.com/pik-piam/magpie), [magpie4](https://github.com/pik-piam/magpie4), [mrvalidation](https://github.com/pik-piam/mrvalidation),
+See [remind2](https://github.com/pik-piam/remind2),
+[magpie4](https://github.com/pik-piam/magpie4),
+[mrvalidation](https://github.com/pik-piam/mrvalidation),
 [mrvalidnitrogen](https://github.com/pik-piam/mrvalidnitrogen).
 
 
 ### :factory: Manage model and data infrastructure
 
-See [madrat](https://github.com/pik-piam/madrat), [goxygen](https://github.com/pik-piam/goxygen), [modelstats](https://github.com/pik-piam/modelstats), [piktests](https://github.com/pik-piam/piktests), [gms](https://github.com/pik-piam/gms), [citation](https://github.com/pik-piam/citation), [lucode2](https://github.com/pik-piam/lucode2).
+See [madrat](https://github.com/pik-piam/madrat),
+[goxygen](https://github.com/pik-piam/goxygen),
+[modelstats](https://github.com/pik-piam/modelstats),
+[piktests](https://github.com/pik-piam/piktests),
+[gms](https://github.com/pik-piam/gms),
+[citation](https://github.com/pik-piam/citation),
+[lucode2](https://github.com/pik-piam/lucode2).
 
 
 ### :building_construction: + :truck: Sector models
