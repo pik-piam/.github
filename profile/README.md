@@ -21,7 +21,8 @@ For input data specific to MAgPIE see [mrmagpie](https://github.com/pik-piam/mrm
 [mrland](https://github.com/pik-piam/mrland), 
 [mrlandcore](https://github.com/pik-piam/mrlandcore/),
 [mrsoil](https://github.com/pik-piam/mrsoil), 
-[mrwater](https://github.com/pik-piam/mrwater).  
+[mrwater](https://github.com/pik-piam/mrwater),
+[mrfactors](https://github.com/pik-piam/mrfactors).  
 For input data specific to REMIND see [mrremind](https://github.com/pik-piam/mrremind),
 [mredgetransport](https://github.com/pik-piam/mredgetransport), 
 [mredgebuildings](https://github.com/pik-piam/mredgebuildings),
