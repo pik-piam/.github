@@ -1,6 +1,6 @@
 ## Welcome to the pik-piam github page :wave:
 
-We develop tools (mainly in R) for use with data and models related to [PIK](https://www.pik-potsdam.de/en)'s research.
+We develop tools (mainly in R) for use with data and models related to [PIK](https://www.pik-potsdam.de/en)'s research. Many of these are directly linked related to the [REMIND](https://github.com/remindmodel/remind) and [MAgPIE](https://github.com/magpiemodel/magpie) models, often dealing either with the pre- or post-processing. 
 
 ### 💡 Get help:
 Need help with something? Check our new [Discussions](https://github.com/pik-piam/discussions/discussions) page, you'll find answers to many questions and the right place to ask new ones!
@@ -41,13 +41,13 @@ See [madrat](https://github.com/pik-piam/madrat), [goxygen](https://github.com/p
 
 ### :building_construction: + :truck: Sector models
 
-For the **builidings** model see [brick](https://github.com/pik-piam/brick), [reportbrick](https://github.com/pik-piam/reportbrick).  
-For the **transport** model see [edgeTransport](https://github.com/pik-piam/edgeTransport).
+For the builidings model see [brick](https://github.com/pik-piam/brick), [reportbrick](https://github.com/pik-piam/reportbrick).  
+For the transport model see [edgeTransport](https://github.com/pik-piam/edgeTransport).
 
 
 ### :wrench: Other tools
 
-Convert GDP data with [GDPuc](https://pik-piam.github.io/GDPuc/index.html).  
+Convert monetary values with [GDPuc](https://pik-piam.github.io/GDPuc/index.html).  
 Create beautiful graphs with [mip](https://github.com/pik-piam/mip), [luplot](https://github.com/pik-piam/luplot).
 
 
