@@ -5,10 +5,6 @@ We develop tools (mainly in R) for use with data and models related to [PIK](htt
 ### 💡 Get help:
 Need help with something? Check our new [Discussions](https://github.com/pik-piam/discussions/discussions) page, you'll find answers to many questions and the right place to ask new ones!
 
-### :fireworks: Create beautiful graphs
-
-See [mip](https://github.com/pik-piam/mip), [luplot](https://github.com/pik-piam/luplot)
-
 
 ### :floppy_disk: Use the pik-piam custom data classes
 
@@ -18,50 +14,46 @@ For the dataframe-like 'quitte' class see [quitte](https://github.com/pik-piam/q
 
 ### :inbox_tray: Prepare model input data
 
-#### For both MAgPIE and REMIND 
-
-See [mrdrivers](https://pik-piam.github.io/mrdrivers/index.html), 
+For input data for both MAgPIE and REMIND see [mrdrivers](https://pik-piam.github.io/mrdrivers/index.html), 
 [mrcommons](https://github.com/pik-piam/mrcommons), 
-[mrfaocore](https://github.com/pik-piam/mrfaocore)
+[mrfaocore](https://github.com/pik-piam/mrfaocore).
 
-#### Specific to MAgPIE 
-
-See [mrmagpie](https://github.com/pik-piam/mrmagpie), 
+For input data specific to MAgPIE see [mrmagpie](https://github.com/pik-piam/mrmagpie), 
 [mrland](https://github.com/pik-piam/mrland), 
 [mrlandcore](https://github.com/pik-piam/mrlandcore/),
 [mrsoil](https://github.com/pik-piam/mrsoil), 
-[mrwater](https://github.com/pik-piam/mrwater), 
+[mrwater](https://github.com/pik-piam/mrwater).
 
-#### Specific to REMIND 
-
-See [mrremind](https://github.com/pik-piam/mrremind),
+For input data specific to REMIND see [mrremind](https://github.com/pik-piam/mrremind),
 [mredgetransport](https://github.com/pik-piam/mredgetransport), 
 [mredgebuildings](https://github.com/pik-piam/mredgebuildings),
-[mrindustry](https://github.com/pik-piam/mrindustry)
+[mrindustry](https://github.com/pik-piam/mrindustry).
+
 
 ### :outbox_tray: Create reportings
 
 See [remind2](https://github.com/pik-piam/remind2), [magpie](https://github.com/pik-piam/magpie), [magpie4](https://github.com/pik-piam/magpie4), [mrvalidation](https://github.com/pik-piam/mrvalidation),
 [mrvalidnitrogen](https://github.com/pik-piam/mrvalidnitrogen)
 
-### 📈 Sector models
-
-#### :bricks: Buildings model 
-
-See [brick](https://github.com/pik-piam/brick), [reportbrick](https://github.com/pik-piam/reportbrick)
-
-#### :truck: Transport model 
-
-See [edgeTransport](https://github.com/pik-piam/edgeTransport)
 
 ### :factory: Manage model and data infrastructure
 
 See [madrat](https://github.com/pik-piam/madrat), [goxygen](https://github.com/pik-piam/goxygen), [modelstats](https://github.com/pik-piam/modelstats), [piktests](https://github.com/pik-piam/piktests), [gms](https://github.com/pik-piam/gms), [citation](https://github.com/pik-piam/citation), [lucode2](https://github.com/pik-piam/lucode2)
 
 
+### 📈 Sector models
+
+For the **builidings** model see [brick](https://github.com/pik-piam/brick), [reportbrick](https://github.com/pik-piam/reportbrick).
+
+For the **transport** model see [edgeTransport](https://github.com/pik-piam/edgeTransport).
+
+
 ### :wrench: Other tools
 
-Convert GDP data with [GDPuc](https://pik-piam.github.io/GDPuc/index.html)
+Convert GDP data with [GDPuc](https://pik-piam.github.io/GDPuc/index.html).
+
+Create beautiful graphs with [mip](https://github.com/pik-piam/mip), [luplot](https://github.com/pik-piam/luplot).
+
 
 ### 🛰️ R-Universe
 
