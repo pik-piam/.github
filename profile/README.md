@@ -7,9 +7,7 @@ Need help with something? Check our new [Discussions](https://github.com/pik-pia
 
 ### :fireworks: Create beautiful graphs
 
-See [mip](https://github.com/pik-piam/mip), [luplot](https://github.com/pik-piam/luplot), ...
-
-Looking for inspiration? Check out our gallery (under construction).
+See [mip](https://github.com/pik-piam/mip), [luplot](https://github.com/pik-piam/luplot)
 
 
 ### :floppy_disk: Use the pik-piam custom data classes
@@ -20,25 +18,41 @@ For the dataframe-like 'quitte' class see [quitte](https://github.com/pik-piam/q
 
 ### :inbox_tray: Prepare model input data
 
+#### For both MAgPIE and REMIND 
+
 See [mrdrivers](https://pik-piam.github.io/mrdrivers/index.html), 
 [mrcommons](https://github.com/pik-piam/mrcommons), 
-[mrremind](https://github.com/pik-piam/mrremind), 
-[mrmagpie](https://github.com/pik-piam/mrmagpie), 
+[mrfaocore](https://github.com/pik-piam/mrfaocore)
+
+#### Specific to MAgPIE 
+
+See [mrmagpie](https://github.com/pik-piam/mrmagpie), 
 [mrland](https://github.com/pik-piam/mrland), 
 [mrlandcore](https://github.com/pik-piam/mrlandcore/),
-[mrfaocore](https://github.com/pik-piam/mrfaocore),
 [mrsoil](https://github.com/pik-piam/mrsoil), 
 [mrwater](https://github.com/pik-piam/mrwater), 
+
+#### Specific to REMIND 
+
+See [mrremind](https://github.com/pik-piam/mrremind),
 [mredgetransport](https://github.com/pik-piam/mredgetransport), 
 [mredgebuildings](https://github.com/pik-piam/mredgebuildings),
 [mrindustry](https://github.com/pik-piam/mrindustry)
-
 
 ### :outbox_tray: Create reportings
 
 See [remind2](https://github.com/pik-piam/remind2), [magpie](https://github.com/pik-piam/magpie), [magpie4](https://github.com/pik-piam/magpie4), [mrvalidation](https://github.com/pik-piam/mrvalidation),
 [mrvalidnitrogen](https://github.com/pik-piam/mrvalidnitrogen)
 
+### 📈 Sector models
+
+#### :bricks: Buildings model 
+
+See [brick](https://github.com/pik-piam/brick), [reportbrick](https://github.com/pik-piam/reportbrick)
+
+#### :truck: Transport model 
+
+See [edgeTransport](https://github.com/pik-piam/edgeTransport)
 
 ### :factory: Manage model and data infrastructure
 
