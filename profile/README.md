@@ -31,7 +31,7 @@ See [mrdrivers](https://pik-piam.github.io/mrdrivers/index.html),
 [mrwater](https://github.com/pik-piam/mrwater), 
 [mredgetransport](https://github.com/pik-piam/mredgetransport), 
 [mredgebuildings](https://github.com/pik-piam/mredgebuildings),
-[mredgebuildings](https://github.com/pik-piam/mrindustry)
+[mrindustry](https://github.com/pik-piam/mrindustry)
 
 
 ### :outbox_tray: Create reportings
