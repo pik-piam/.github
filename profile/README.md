@@ -51,7 +51,7 @@ See [madrat](https://github.com/pik-piam/madrat),
 
 ### :building_construction: + :truck: Sector models
 
-For the buildings model see [brick](https://github.com/pik-piam/brick), [reportbrick](https://github.com/pik-piam/reportbrick).  
+For the buildings model see [brick](https://github.com/pik-piam/brick), [reportbrick](https://github.com/pik-piam/reportbrick), [edgebuildings](https://github.com/pik-piam/edgebuildings).  
 For the transport model see [edgeTransport](https://github.com/pik-piam/edgeTransport), [reporttransport](https://github.com/pik-piam/reporttransport).
 
 
