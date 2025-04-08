@@ -32,10 +32,11 @@ For input data specific to REMIND see [mrremind](https://github.com/pik-piam/mrr
 
 ### :outbox_tray: Create reportings
 
-See [remind2](https://github.com/pik-piam/remind2),
+See [remind2](https://github.com/pik-piam/remind2) (REMIND.mif file),
 [magpie4](https://github.com/pik-piam/magpie4),
 [mrvalidation](https://github.com/pik-piam/mrvalidation),
-[mrvalidnitrogen](https://github.com/pik-piam/mrvalidnitrogen).
+[mrvalidnitrogen](https://github.com/pik-piam/mrvalidnitrogen),
+[piamInterfaces](https://github.com/pik-piam/piamInterfaces) (project-specific reportings).
 
 
 ### :factory: Manage model and data infrastructure
