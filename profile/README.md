@@ -39,6 +39,10 @@ See [remind2](https://github.com/pik-piam/remind2) (REMIND.mif file),
 [piamInterfaces](https://github.com/pik-piam/piamInterfaces) (project-specific reportings).
 
 
+### :mag: Harmonization & Downscaling
+Harmonize & downscale land use data with [mrdownscale](https://github.com/pik-piam/mrdownscale).
+
+
 ### :factory: Manage model and data infrastructure
 
 See [madrat](https://github.com/pik-piam/madrat),
